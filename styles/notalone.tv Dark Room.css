@@ -1,3 +1,11 @@
+/* ==UserStyle==
+@name           notalone.tv Dark Room
+@namespace      https://github.com/rikka0612/rikka-custom-css
+@version        1.1
+@description    notalone.tv Dark Room
+@author         rikka0612
+@homepageURL    https://github.com/rikka0612
+==/UserStyle== */
 @-moz-document url-prefix("https://notalone.tv/room/") {
 main.room {
     background: #000;
