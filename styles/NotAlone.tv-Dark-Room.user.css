@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           notalone.tv Dark Room
 @namespace      https://github.com/rikka0612/rikka-custom-css
-@version        1.1.0
+@version        1.2.0
 @description    notalone.tv Dark Room
 @author         rikka0612
 @homepageURL    https://github.com/rikka0612
@@ -147,5 +147,9 @@ cursor: pointer !important;
 #new_player .bottom .progress i.progressBar {
     border: 0px solid #fff;
     border-radius: 50px;
+}
+#new_player .bottom .buttons .group_right input[type="range"].volume-bar {
+    max-width: 60px;
+    margin: 0 -4px;
 }
 }
