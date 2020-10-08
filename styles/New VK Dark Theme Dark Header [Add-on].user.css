@@ -76,6 +76,7 @@ input.text.ts_input:focus,
 .top_audio_play__button:after,
 .TopSearch .input_back_content {
 	color: #e0e0e0;
+	margin-top: -6px;
 }
 
 #top_notify_btn.has_notify .top_notify_count {
